@@ -20,7 +20,7 @@ Add this dependency to your project's POM:
 ```xml
 <dependency>
     <groupId>com.swift.gpi.tracker</groupId>
-    <artifactId>g4csdkt</artifactId>
+    <artifactId>g4csdk</artifactId>
     <version>1.0.0</version>
     <scope>compile</scope>
 </dependency>
